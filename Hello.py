@@ -1,3 +1,3 @@
-print("Hello from Git")
-message = "Hello from my first Git repo"
+print("u mf")
+message = "mvg zoe"
 print(message)
