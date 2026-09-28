@@ -1,4 +1,4 @@
 """hello"""
 print("Hello Git")
-message = "mvg zoe"
+message = "hallo hoe is het?"
 print(message)
